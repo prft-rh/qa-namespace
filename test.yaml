@@ -1,0 +1,7 @@
+apiVersion: apimc.com.perficient/v1alpha1
+kind: QATest
+metadata:
+  name: qatest-sample
+spec:
+  git:
+    branch: main
